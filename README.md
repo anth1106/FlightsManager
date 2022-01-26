@@ -15,7 +15,7 @@ and the you will open the shell and write
 ![image](https://user-images.githubusercontent.com/61751339/151206228-5ef72368-a8d8-4ee3-bc4b-d4f279fcfbec.png)
 #
 then you have to open the .sql from resources folder on the project, or from the .sql [releases](https://github.com/anth1106/FlightsManager/releases/tag/v1.0.0)  and copy it and it will generate the database automatically
-##On Linux 
+## On Linux 
 you only have to open your database with a user that have permissions to create users and databases
 and then you have to open the .sql from resources folder on the project, or from the .sql [releases](https://github.com/anth1106/FlightsManager/releases/tag/v1.0.0)  and copy it and it will generate the database automatically
 
